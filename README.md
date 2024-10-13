@@ -1,5 +1,9 @@
 # my-repo-10
 ## Progress Log
+🔄 [2024-10-13 18:57:19] Deploying to Firebase
+
+⏱️ Previous step took 1.58 seconds
+
 🔄 [2024-10-13 18:57:17] Flutter project initialized and committed to repository
 
 ⏱️ Previous step took 32.78 seconds
