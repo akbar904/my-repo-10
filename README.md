@@ -1,5 +1,10 @@
 # my-repo-10
 ## Progress Log
+🔄 [2024-10-13 18:57:21] Failed to deploy to Firebase. Deploy message: An error occurred during Firebase deployment: Error building Flutter web app: Target file "lib/main/main_production.dart" not found.
+
+
+⏱️ Previous step took 2.20 seconds
+
 🔄 [2024-10-13 18:57:19] Deploying to Firebase
 
 ⏱️ Previous step took 1.58 seconds
